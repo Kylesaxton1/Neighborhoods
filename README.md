@@ -6,7 +6,9 @@ Members: Daniel Hopping (dsh57@pitt.edu), Kyle Saxton (kms390@pitt.edu), Aaryan 
 
 Datasets used: 
 Arrests (https://data.wprdc.org/dataset/arrest-data)
+
 Playground Equipment (https://data.wprdc.org/dataset/playground-equipment)
+
 Median Death Age (https://data.wprdc.org/dataset/median-age-death)
 
 Abstract (brief summary of metrics):
